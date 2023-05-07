@@ -1,0 +1,3 @@
+displayName = Spinning but Terraria旋转泰拉
+author = Candle BRT
+version = 1.1

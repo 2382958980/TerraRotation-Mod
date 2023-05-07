@@ -1,0 +1,10 @@
+Version 1.0
+
+  This mod creates an additional layer, in which the game screen will continuously rotate,unless you pause the game.
+The idea originated from a meme called spinning chicken nugget.
+————————————————————
+Version 1.1
+
+  Add ModConfig where you can change the scale and rotate speed of the layer.
+————————————————————
+Enjoy!
